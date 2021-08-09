@@ -3,31 +3,41 @@ const app = express()
 const mongo = require('mongodb')
 const mongoclient = mongo.MongoClient;
 const cors = require('cors');
+const path = require('path')
 
 require('dotenv').config()
 
+
+
 const port = process.env.PORT || 4000;
 const mongourl = process.env.mongodb_url;
-
 let db;
+
+//connect to mongodb
+mongoclient.connect(mongourl, { useUnifiedTopology: true }, (err, client) => {
+  if (err) throw err;
+  db = client.db('mydata')
+})
+
+
 
 app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-if (process.env.NODE_ENV === 'production') {
-  app.use(express.static('client/build'));
-  app.get('*', (req, res) => {
-    res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
-  });
-}
+
 
 //City Data
 app.get('/location', (req, res) => {
+  console.log("inside loc")
   db.collection('city').find().toArray((err, result) => {
     if (err) throw err;
     res.send(result);
   })
+})
+
+app.get('/test',(req,res)=>{
+  console.log("test")
 })
 
 //Mealtype Data
@@ -172,12 +182,15 @@ app.post('/placeorder', (req, res) => {
   })
 })
 
-//connect to mongodb
-mongoclient.connect(mongourl, { useUnifiedTopology: true }, (err, client) => {
+if (process.env.NODE_ENV === 'production') {
+  app.use(express.static('client/build'));
+  app.get('*', (req, res) => {
+    res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
+  });
+}
+
+
+app.listen(port, (err) => {
   if (err) throw err;
-  db = client.db('mydata')
-  app.listen(port, (err) => {
-    if (err) throw err;
-    console.log(`Server is running on port ${port}`)
-  })
+  console.log(`Server is running on port ${port}`)
 })

@@ -82,6 +82,7 @@ class Home extends Component {
     fetch(locurl, { method: 'GET' })
       .then((res) => res.json())
       .then((data) => {
+        console.log(data)
         this.setState({ location: data })
       })
   }
