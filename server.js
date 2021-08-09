@@ -6,7 +6,7 @@ const cors = require('cors');
 
 require('dotenv').config()
 
-const port = process.env.Port || 4000;
+const port = process.env.PORT || 4000;
 const mongourl = process.env.mongodb_url;
 
 let db;
