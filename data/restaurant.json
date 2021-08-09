@@ -1,0 +1,814 @@
+[
+  {
+    "_id": "1",
+    "name": "Gulab Restaurant",
+    "city_name": "Delhi",
+    "city": "1",
+    "area": "11",
+    "locality": "Pitampura",
+    "thumb": "https://source.unsplash.com/1600x900/?restaurant",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?pizza",
+    "cost": 429,
+    "contact_number": "8924657515",
+    "address": "Shop 1, Plot D,  Pitampura, New Delhi Complex, Chincholi, Delhi, 110006",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "3",
+        "name": "Snacks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      },
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      },
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "name": "Pandit Ji Restaurant",
+    "city_name": "Delhi",
+    "city": "1",
+    "area": "12",
+    "locality": "Ashok Vihar",
+    "thumb": "https://source.unsplash.com/1600x900/?pub",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?burgur",
+    "cost": 368,
+    "contact_number": "8475263598",
+    "address": "Shop 44, Plot C,  Ahok Vihar Phase 2, Chincholi, Delhi, 110013",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      },
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "name": "Bollywood Spice Restaurant",
+    "city_name": "Delhi",
+    "city": "1",
+    "area": "13",
+    "locality": "Pragati Vihar",
+    "thumb": "https://source.unsplash.com/1600x900/?resort",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?sweets",
+    "cost": 256,
+    "contact_number": "7843564853",
+    "address": "65, Pragati Vihar, Khan Market, New Delhi, Delhi, 110026",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "5",
+        "name": "Drinks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "name": "Spice Up Restaurant",
+    "city_name": "Delhi",
+    "city": "1",
+    "area": "14",
+    "locality": "Vasant Nagar",
+    "thumb": "https://source.unsplash.com/1600x900/?hotel",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?lunch",
+    "cost": 548,
+    "contact_number": "7918364852",
+    "address": "953, Vasant Nagar, Nehru Place Road, Kotla Mubarakpur, New Delhi, Delhi, 110017",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "6",
+        "name": "Nightlife"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      },
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "name": "Salad Story Restaurant",
+    "city_name": "Delhi",
+    "city": "1",
+    "area": "15",
+    "locality": "VRC Colony",
+    "thumb": "https://source.unsplash.com/1600x900/?restaurant",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?dinner",
+    "cost": 170,
+    "contact_number": "8752193748",
+    "address": "3682/28, VRC Colony, Shabi Market, Mori Gate, New Delhi, Delhi, 110044",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "6",
+        "name": "Nightlife"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      },
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "name": "Indian Vegan Heat Restaurant",
+    "city_name": "Mumbai",
+    "city": "2",
+    "area": "21",
+    "locality": "Borivali West",
+    "thumb": "https://source.unsplash.com/1600x900/?pub",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?breakfast",
+    "cost": 268,
+    "contact_number": "7531596824",
+    "address": "5B, Borivali West, New Link Rd, Andheri, Mumbai, Maharashtra, 400045",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "3",
+        "name": "Snacks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      },
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "name": "Taj Mehal Restaurant",
+    "city_name": "Mumbai",
+    "city": "2",
+    "area": "22",
+    "locality": "Bandra Kurla",
+    "thumb": "https://source.unsplash.com/1600x900/?hotel",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?juice",
+    "cost": 770,
+    "contact_number": "9514826357",
+    "address": "Shop No 2 Parivar Apts, Bandra Kurla, Santacruz, Mumbai, Maharashtra, 400023",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "5",
+        "name": "Drinks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "name": "Indian Express Restaurant",
+    "city_name": "Mumbai",
+    "city": "2",
+    "area": "23",
+    "locality": "Andheri West",
+    "thumb": "https://source.unsplash.com/1600x900/?resort",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?veg",
+    "cost": 685,
+    "contact_number": "8526435984",
+    "address": "2 Matunga Kapol Chs Ltd, Andheri West, Matunga, Mumbai, Maharashtra, 400016",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "6",
+        "name": "Nightlife"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "name": "Indian Masala Restaurant",
+    "city_name": "Mumbai",
+    "city": "2",
+    "area": "24",
+    "locality": "Culaba",
+    "thumb": "https://source.unsplash.com/1600x900/?restaurant",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?pizza",
+    "cost": 477,
+    "contact_number": "9832781254",
+    "address": "Room No 38 4th Flr, Culaba, Vaju Kotak Marg, Ballard Estate, Mumbai, Maharashtra, 400042",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      },
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "name": "Roti Mojo Restaurant",
+    "city_name": "Mumbai",
+    "city": "2",
+    "area": "25",
+    "locality": "Nagdevi",
+    "thumb": "https://source.unsplash.com/1600x900/?pub",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?burgur",
+    "cost": 239,
+    "contact_number": "8762498756",
+    "address": "1st Flr, 85/87, Powai Street, Nagdevi, Mumbai, Maharashtra, 400057",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "6",
+        "name": "Nightlife"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      },
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "name": "Dosalon Chai Restaurant",
+    "city_name": "Pune",
+    "city": "3",
+    "area": "31",
+    "locality": "Magarpatta",
+    "thumb": "https://source.unsplash.com/1600x900/?hotel",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?food",
+    "cost": 684,
+    "contact_number": "8546597135",
+    "address": "C 32 Telco Road, Magarpatta, Pimpri-chinchwad, Pune, Maharashtra, 411026",
+    "type": [
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "3",
+        "name": "Snacks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      },
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      }
+    ]
+  },
+  {
+    "_id": "12",
+    "name": "Lai Lounge Restaurant",
+    "city_name": "Pune",
+    "city": "3",
+    "area": "32",
+    "locality": "Panch Kalli",
+    "thumb": "https://source.unsplash.com/1600x900/?resort",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?dinner",
+    "cost": 359,
+    "contact_number": "9138549681",
+    "address": "31,ghorpade Peth, Panch Kalli, Patel Park, Pune, Maharashtra, 411048",
+    "type": [
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      }
+    ]
+  },
+  {
+    "_id": "13",
+    "name": "Spirit of Chai Restaurant",
+    "city_name": "Pune",
+    "city": "3",
+    "area": "33",
+    "locality": "Vindya Nagar",
+    "thumb": "https://source.unsplash.com/1600x900/?restaurant",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?lunch",
+    "cost": 258,
+    "contact_number": "8546971259",
+    "address": "208-209 A Wing, 208-209 A Wing, Vindya Nagar, Sadhu Vaswani, Pune, Maharashtra, 411033",
+    "type": [
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "6",
+        "name": "Nightlife"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      }
+    ]
+  },
+  {
+    "_id": "14",
+    "name": "Chamcha Lounge Restaurant",
+    "city_name": "Pune",
+    "city": "3",
+    "area": "34",
+    "locality": "Gitanjali Kunj",
+    "thumb": "https://source.unsplash.com/1600x900/?hotel",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?breakfast",
+    "cost": 287,
+    "contact_number": "8746953872",
+    "address": "2A, Gitanjali Kunj, Dr.ambedkar Road Pune, Maharashtra, 411020",
+    "type": [
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "3",
+        "name": "Snacks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      },
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      }
+    ]
+  },
+  {
+    "_id": "15",
+    "name": "Hot Basil Restaurant",
+    "city_name": "Pune",
+    "city": "3",
+    "area": "35",
+    "locality": "Gururaj Ganj",
+    "thumb": "https://source.unsplash.com/1600x900/?resort",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?sweets",
+    "cost": 146,
+    "contact_number": "7548961536",
+    "address": "A1/1, Gururaj Ganj, Near padmavati Brid, Pune, Maharashtra, 411016",
+    "type": [
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      },
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      }
+    ]
+  },
+  {
+    "_id": "16",
+    "name": "Namastey Lounge Restaurant",
+    "city_name": "Bangalore",
+    "city": "4",
+    "area": "41",
+    "locality": "Kammanhalli",
+    "thumb": "https://source.unsplash.com/1600x900/?pub",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?recipe",
+    "cost": 856,
+    "contact_number": "8684262415",
+    "address": "120/5, Balaji Complex, Kammanhalli, Bangalore, Karnataka, 560003",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "5",
+        "name": "Drinks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      }
+    ]
+  },
+  {
+    "_id": "17",
+    "name": "DeviDining Restaurant",
+    "city_name": "Bangalore",
+    "city": "4",
+    "area": "42",
+    "locality": "Electronic City",
+    "thumb": "https://source.unsplash.com/1600x900/?restaurant",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?burgur",
+    "cost": 626,
+    "contact_number": "7416984752",
+    "address": "30b, Journalist Colony, 2nd Cross, Electronic City, Bangalore, Karnataka, 560033",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "3",
+        "name": "Snacks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      },
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      }
+    ]
+  },
+  {
+    "_id": "18",
+    "name": "Andaz Bar Restaurant",
+    "city_name": "Bangalore",
+    "city": "4",
+    "area": "43",
+    "locality": "Shivajinagar",
+    "thumb": "https://source.unsplash.com/1600x900/?hotel",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?food",
+    "cost": 471,
+    "contact_number": "9173468512",
+    "address": "28, S C Road, Shivajinagar, Bangalore, Karnataka, 560045",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "5",
+        "name": "Drinks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "2",
+        "name": "South Indian"
+      },
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      }
+    ]
+  },
+  {
+    "_id": "19",
+    "name": "Smoking Fish Restaurant",
+    "city_name": "Bangalore",
+    "city": "4",
+    "area": "44",
+    "locality": "Indiranagar",
+    "thumb": "https://source.unsplash.com/1600x900/?resort",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?pizza",
+    "cost": 339,
+    "contact_number": "8486251976",
+    "address": "109,No 84, Barton Cnetre, Indiranagar, Bangalore, Karnataka, 560014",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "6",
+        "name": "Nightlife"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "3",
+        "name": "Chinese"
+      },
+      {
+        "cuisine": "4",
+        "name": "Fast Food"
+      }
+    ]
+  },
+  {
+    "_id": "20",
+    "name": "Hanging Goat Restaurant",
+    "city_name": "Bangalore",
+    "city": "4",
+    "area": "45",
+    "locality": "Rajajinagar",
+    "thumb": "https://source.unsplash.com/1600x900/?pub",
+    "sub_thumb": "https://source.unsplash.com/1600x900/?veg",
+    "cost": 284,
+    "contact_number": "8475968525",
+    "address": "70-70/1, Vimal Chambers, 2 Floor, Rajajinagar, Bangalore, Karnataka, 560053",
+    "type": [
+      {
+        "mealtype": "1",
+        "name": "Breakfast"
+      },
+      {
+        "mealtype": "2",
+        "name": "Lunch"
+      },
+      {
+        "mealtype": "4",
+        "name": "Dinner"
+      },
+      {
+        "mealtype": "3",
+        "name": "Snacks"
+      }
+    ],
+    "Cuisine": [
+      {
+        "cuisine": "1",
+        "name": "North Indian"
+      },
+      {
+        "cuisine": "5",
+        "name": "Street Food"
+      }
+    ]
+  }
+]

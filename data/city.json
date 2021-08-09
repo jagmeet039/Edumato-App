@@ -1,0 +1,142 @@
+[
+  {
+    "_id": 1,
+    "name": "Pitampura",
+    "city_name": "Delhi",
+    "city": 1,
+    "area": 11
+  },
+  {
+    "_id": 2,
+    "name": "Ashok Vihar",
+    "city_name": "Delhi",
+    "city": 1,
+    "area": 12
+  },
+  {
+    "_id": 3,
+    "name": "Pragati Vihar",
+    "city_name": "Delhi",
+    "city": 1,
+    "area": 13
+  },
+  {
+    "_id": 4,
+    "name": "Vasant Nagar",
+    "city_name": "Delhi",
+    "city": 1,
+    "area": 14
+  },
+  {
+    "_id": 5,
+    "name": "VRC Colony",
+    "city_name": "Delhi",
+    "city": 1,
+    "area": 15
+  },
+  {
+    "_id": 6,
+    "name": "Borivali West",
+    "city_name": "Mumbai",
+    "city": 2,
+    "area": 21
+  },
+  {
+    "_id": 7,
+    "name": "Bandra Kurla",
+    "city_name": "Mumbai",
+    "city": 2,
+    "area": 22
+  },
+  {
+    "_id": 8,
+    "name": "Andheri West",
+    "city_name": "Mumbai",
+    "city": 2,
+    "area": 23
+  },
+  {
+    "_id": 9,
+    "name": "Culaba",
+    "city_name": "Mumbai",
+    "city": 2,
+    "area": 24
+  },
+  {
+    "_id": 10,
+    "name": "Nagdevi",
+    "city_name": "Mumbai",
+    "city": 2,
+    "area": 25
+  },
+  {
+    "_id": 11,
+    "name": "Magarpatta",
+    "city_name": "Pune",
+    "city": 3,
+    "area": 31
+  },
+  {
+    "_id": 12,
+    "name": "Panch Kalli",
+    "city_name": "Pune",
+    "city": 3,
+    "area": 32
+  },
+  {
+    "_id": 13,
+    "name": "Vindya Nagar",
+    "city_name": "Pune",
+    "city": 3,
+    "area": 33
+  },
+  {
+    "_id": 14,
+    "name": "Gitanjali Kunj",
+    "city_name": "Pune",
+    "city": 3,
+    "area": 34
+  },
+  {
+    "_id": 15,
+    "name": "Karan Vihar",
+    "city_name": "Pune",
+    "city": 3,
+    "area": 35
+  },
+  {
+    "_id": 16,
+    "name": "Rajajinagar",
+    "city_name": "Bangalore",
+    "city": 4,
+    "area": 41
+  },
+  {
+    "_id": 17,
+    "name": "Indiranagar",
+    "city_name": "Bangalore",
+    "city": 4,
+    "area": 42
+  },
+  {
+    "_id": 18,
+    "name": "Shivajinagar",
+    "city_name": "Bangalore",
+    "city": 4,
+    "area": 43
+  },
+  {
+    "_id": 19,
+    "name": "Electronic City",
+    "city_name": "Bangalore",
+    "city": 4,
+    "area": 44
+  },
+  {
+    "_id": 20,
+    "name": "Kammanhalli",
+    "city_name": "Bangalore",
+    "city": 4,
+    "area": 45
+  }
+]

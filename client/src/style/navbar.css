@@ -1,0 +1,22 @@
+.navbar-inverse {
+  background: black;
+}
+
+.navbar-inverse .navbar-brand {
+  font-weight: 700;
+  color: aliceblue;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #e2dbdb;
+}
+
+.navbar {
+  border-radius: 0px;
+  margin-bottom: 0;
+  min-height: 0px;
+}
+
+.nav-side-text{
+  font-size: 15px;
+}

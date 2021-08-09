@@ -1,0 +1,100 @@
+.dp-info-box{
+  box-shadow: 5px 5px 10px 0 rgba(131, 9, 9, 0.5);
+  margin-bottom: 38px;
+  width: 100%;
+  height: 250px;
+  background-color: white;
+  display: block;
+  float: right;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.dp-box-image{
+  width: 30%;
+  float: left;
+}
+
+.dp-box-image>img{
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.change{
+  margin-top: 25px;
+  font-size: 30px;
+}
+
+.dp-info-box-details{
+  width: 50%;
+  float: left;
+  margin-top: 35px;
+  margin-right: 112px;
+  margin-bottom: 30px;
+}
+
+.dp-info-box-heading {
+  text-align: left;
+  color: #192f60;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.dp-info-box-subheading{
+  text-align: left;
+  color: gray;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.subheading-down{
+  float: left;
+  margin-left: 20px;
+  font-size: 13px;
+  font-weight: 400;
+  color: #636f88;
+}
+
+span{
+  color:#192f60;
+  font-size: 13px;
+  margin-left: 10px;
+  font-weight: 600;
+}
+
+#cost{
+  padding: 5px;
+}
+
+#cnum{
+  padding:5px;
+}
+
+.dp-info-box>hr{
+  margin-top: 20px;
+  margin-bottom: 12px;
+  border: 0;
+  border-top: 2px solid #dedfe5;
+  width: 90%;
+  position: relative;
+  top: 5px;
+}
+
+.side-box{
+  box-shadow: 5px 5px 10px 0 rgba(131, 9, 9, 0.5);
+  width: 210px;
+  height: 680px;
+  background-color: white;
+  display: block;
+  float: left;
+  margin-top: 10px;
+  margin-left: 30px;
+  border-radius: 10px;
+  padding: 10px 45px;
+}
